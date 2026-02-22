@@ -142,7 +142,7 @@ MIT License — see `LICENSE` for details.
 
 ## Authors
 
-**Jorge** — physicist, science communicator, and TikTok educator.  
+**Jorge.Physics** — physicist, science communicator, and TikTok educator.  
 Built with Python + pygame for educational physics content creation.
 
 **Claude (Anthropic)** — AI collaborator. Worked iteratively with Jorge on architecture, physics implementation, and all the little fixes along the way.
